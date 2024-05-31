@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on startup company
 - 🌱 I’m currently learning flutter, nodejs, vuejs, python, aws and firebase
 - 💞️ I’m looking to collaborate on open source project and freelance project
-- 📫 How to reach me? please email me at ahmad19.muhyidin@gmail.com or chat me at <a href="https://www.instagram.com/iam.idin">@iam.idin</a>
+- 📫 How to reach me? please email me at idinz.dev@gmail.com or chat me at <a href="https://linkedin.com/in/idindev">@idindev</a>
 
 <!--
 **iamidin/iamidin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
