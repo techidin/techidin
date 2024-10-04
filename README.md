@@ -1,21 +1,29 @@
-- 👋 Hi, I’m @iamidin
-- 👀 I’m interested in technology
-- 🔭 I’m currently working on startup company
-- 🌱 I’m currently learning flutter, nodejs, vuejs, python, aws and firebase
-- 💞️ I’m looking to collaborate on open source project and freelance project
-- 📫 How to reach me? please email me at idinz.dev@gmail.com or chat me at <a href="https://linkedin.com/in/idindev">@idindev</a>
+#👋 Hey there, I’m Idin!
+I’m a passionate Software Engineer and Freelancer with over 6 years of experience building awesome tech solutions and having fun along the way! 🎉
 
-<!--
-**iamidin/iamidin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently freelancing, helping startups and businesses bring their ideas to life one line of code at a time.
+🌱 Exploring Next.js and continuing my learning journey with Nest.js and Nuxt.js—always excited to dive into new frameworks!
+💡 Love solving problems and building things that make life a bit easier. 💻✨
+🔗 Open to collaboration on freelance gigs, open-source projects, or just sharing knowledge!
 
-Here are some ideas to get you started:
+##📈 Some of my proudest achievements:
+⚡️ Boosted transaction speed by 100% and reduced errors by 40% through a custom retail system.
+🛠 Built an all-in-one dashboard for better operational visibility.
+🍽 Simplified canteen operations with a QR code ordering system, doubling service speed.
+🏦 Cut down resolution time by 50% for consumer disputes via an online dispute platform.
+🔍 Expanded reach by integrating 15+ insurance services across Indonesia and Thailand.
+🏭 Improved customer experience with a real-time queue management system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎯 Expertise Highlights:
+Full-Stack Development: JavaScript, TypeScript, Python, PHP—you name it!
+API Integration: Building bridges for seamless data exchange.
+Cloud: AWS proponent for scalable and reliable solutions.
+System Optimization: Making things faster, smoother, and more reliable.
+
+Let’s connect and create something amazing together! 😊
+
+https://ahmadmuhyidin.my.id
+idinz.dev@gmail.com
+<a href="https://linkedin.com/in/idindev">LinkedIn</a>
+<a href="https://linkedin.com/in/idindev](https://www.upwork.com/freelancers/~01e4b82d69dc728ba3">Upwork</a>
+
