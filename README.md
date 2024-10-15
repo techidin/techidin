@@ -1,5 +1,6 @@
 # 👋 Hey there, I’m Idin!
 ![](https://komarev.com/ghpvc/?username=techidin&color=dc143c)
+> **UTC:** +7 (Jakarta)
 
 ![Idin's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&include_all_commits=true&show_icons=true&theme=aura_dark&hide_border=true)
 
@@ -25,9 +26,17 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 - **System Optimization**: Making things faster, smoother, and more reliable.
 
 ## 🎯 My Tech Stacks:
-<p align=center>
+> Most Used
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,react,nextjs,vue,nuxtjs,svelte,tailwind,bootstrap,vite,nestjs,django,laravel,prisma,graphql,postgresql,rabbitmq,redis,docker,nginx,jenkins,cloudflare,aws,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,webpack,react,nextjs,vue,nuxtjs,tailwind,vite,nestjs,express,py,django,postgresql,aws,rabbitmq,docker,postman&perline=6" />
+  </a>
+</p>
+
+> Less Used
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,php,mysql,graphql,bun,bootstrap,laravel,prisma,redis,jenkins,nginx,flutter,firebase,gcp,jquery&perline=6" />
   </a>
 </p>
 
