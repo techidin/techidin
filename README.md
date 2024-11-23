@@ -22,7 +22,7 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 ![Idin's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&include_all_commits=true&show_icons=true&theme=aura_dark&hide_border=true)
 ![Idin's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techidin&theme=aura_dark&hide_border=true)
 
-## 🏆 Some of my proudest achievements:
+## 🏆 Some of my Proudest Achievements:
 - ⚡️ Boosted transaction speed by **100%** and reduced errors by **40%** through a custom retail system.
 - 🛠 Built an all-in-one dashboard for better operational visibility.
 - 🍽 Simplified canteen operations with a **QR code ordering system**, doubling service speed.
@@ -37,21 +37,26 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 - **System Optimization**: Making things faster, smoother, and more reliable.
 
 ## ⚛ My Tech Stacks:
-> Most Used
-<p>
-  <a href="https://skillicons.dev">
+<table>
+<tr>
+<td width="50%" valign="top">
+    <div style="text-align: center;">
+        <sub><i>Most Used</i></sub>
+    </div>
+    <br/>
     <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,nodejs,webpack,react,nextjs,vue,nuxtjs,tailwind,vite,nestjs,express,py,django,postgresql,aws,rabbitmq,docker,postman&perline=6" />
-  </a>
-</p>
-
-> Less Used
-<p>
-  <a href="https://skillicons.dev">
+</td>
+<td width="50%" valign="top">
+    <div style="text-align: center;">
+        <sub><i>Less Used</i></sub>
+    </div>
+    <br/>
     <img src="https://skillicons.dev/icons?i=figma,php,mysql,graphql,bun,bootstrap,laravel,prisma,redis,jenkins,nginx,flutter,firebase,gcp,jquery&perline=6" />
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
-Let’s connect and create something amazing together! 😊
+Let’s connect and create something amazing together! 🧑‍💻
 
 ![](https://komarev.com/ghpvc/?username=techidin&color=dc143c)
