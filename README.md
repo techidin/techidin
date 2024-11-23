@@ -1,8 +1,5 @@
-# 👋 Hey there, I’m Idin!
-![](https://komarev.com/ghpvc/?username=techidin&color=dc143c)
-> **UTC:** +7 (Jakarta)
-
-![Idin's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&include_all_commits=true&show_icons=true&theme=aura_dark&hide_border=true)
+# Hey there, I’m <a href="https://www.linkedin.com/in/ridhwanashir/">Idin</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<img src="https://img.shields.io/badge/UTC%20+7-Jakarta-black?style=for-the-badge&logo=clock&logoColor=white" />
 
 I’m a passionate **Software Engineer** and **Freelancer** with over **6 years of experience** building awesome tech solutions and having fun along the way! 🎉
 
@@ -11,7 +8,21 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 - 💡 Love **solving problems** and **building things** that make life a bit easier. 💻✨
 - 🔗 **Open to collaboration** on **freelance gigs**, **open-source projects**, or just sharing knowledge!
 
-## 📈 Some of my proudest achievements:
+<p align="center">📫 You can reach me on:  </p>
+
+<div align="center">
+  <a href="mailto:ahmad19.muhyidin@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ahmadmuhyidin.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/idindev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/idindev" target="_blank"><img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://x.com/idindev" target="_blank"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a>
+</div>
+
+## 📈 Github Stats:
+![Idin's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&include_all_commits=true&show_icons=true&theme=aura_dark&hide_border=true)
+![Idin's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techidin&theme=aura_dark&hide_border=true)
+
+## 🏆 Some of my proudest achievements:
 - ⚡️ Boosted transaction speed by **100%** and reduced errors by **40%** through a custom retail system.
 - 🛠 Built an all-in-one dashboard for better operational visibility.
 - 🍽 Simplified canteen operations with a **QR code ordering system**, doubling service speed.
@@ -25,7 +36,7 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 - **Cloud**: AWS proponent for scalable and reliable solutions.
 - **System Optimization**: Making things faster, smoother, and more reliable.
 
-## 🎯 My Tech Stacks:
+## ⚛ My Tech Stacks:
 > Most Used
 <p>
   <a href="https://skillicons.dev">
@@ -43,7 +54,4 @@ I’m a passionate **Software Engineer** and **Freelancer** with over **6 years 
 ---
 Let’s connect and create something amazing together! 😊
 
-**Website**: [ahmadmuhyidin.my.id](https://ahmadmuhyidin.my.id)  
-**Email**: idinz.dev@gmail.com  
-**LinkedIn**: [@idindev](https://linkedin.com/in/idindev)  
-**Upwork**: [Ahmad M](https://www.upwork.com/freelancers/~01e4b82d69dc728ba3)
+![](https://komarev.com/ghpvc/?username=techidin&color=dc143c)
