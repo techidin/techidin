@@ -1,6 +1,7 @@
 # Draws the contribution graph as a snake animation and publishes the SVGs to
 # the `output` branch, which README.md embeds. GitHub serves the files itself,
-# so the image never depends on an external stats service.
+# so the image never depends on an external stats service. ahmadmuhyidin-snake.svg
+# uses the personal site's palette (ink snake, studio-50..700 dots) for its home page.
 name: Contribution snake
 
 on:
@@ -24,6 +25,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+            dist/ahmadmuhyidin-snake.svg?color_snake=#111111&color_dots=#ebe8f7,#afa6dd,#8273c9,#483aa0,#31256a
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
