@@ -1,4 +1,4 @@
-# Hey there, I’m <a href="https://ahmadmuhyidin.my.id">Ahmad (Idin)</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hey there, I’m <a href="https://www.linkedin.com/in/idindev/">Ahmad</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <img src="https://img.shields.io/badge/UTC%20+7-Bogor%2C%20Indonesia-black?style=for-the-badge&logo=clock&logoColor=white" />
 
 I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://idinstudio.com)**. I ship SaaS end to end, with LLM features where they help. I’ve written production code since **May 2018**, starting the day after I finished vocational school. 🎉
@@ -20,8 +20,14 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
 </div>
 
 ## 📈 GitHub Stats:
-![Idin's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&show_icons=true&theme=aura_dark&hide_border=true&cache_seconds=86400)
-![Idin's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techidin&theme=aura_dark&hide_border=true)
+![Ahmad's GitHub stats](https://stats-idindev.vercel.app/api?username=techidin&show_icons=true&theme=aura_dark&hide_border=true&cache_seconds=86400)
+![Ahmad's GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=techidin&theme=aura_dark&hide_border=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/techidin/techidin/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/techidin/techidin/output/github-snake.svg" />
+  <img alt="A snake eating Ahmad's GitHub contribution graph" src="https://raw.githubusercontent.com/techidin/techidin/output/github-snake-dark.svg" />
+</picture>
 
 ## 🧭 Selected Work:
 - 🏭 **Alpamayo, Switzerland** *(since Sep 2024)*: PREKIT, an edge data platform with an MCP-based assistant, and Alpamayo Intelligence, an operations platform with tool-using agents.
