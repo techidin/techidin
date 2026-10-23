@@ -31,9 +31,9 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
 
 ## 🧭 Selected Work:
 - 🏭 **Alpamayo, Switzerland** *(since Sep 2024)*: PREKIT, an edge data platform with an MCP-based assistant, and Alpamayo Intelligence, an operations platform with tool-using agents.
-- 🚌 **Efisiensi, Indonesia** *(since 2025)*: a passenger ticketing app for an intercity bus operator, then AI fleet monitoring with a YOLO model that counts passengers from bus CCTV.
+- 🚌 **Efisiensi, Indonesia** *(since 2025, through Idin Studio)*: the passenger ticketing app frontend for an intercity bus operator, then AI fleet monitoring with a YOLO model, trained on data I labeled, that counts passengers from bus CCTV.
 - 💌 **Inviboo** *(own product, since Mar 2026)*: event planning, invitations, vendors and day-of operations in one platform.
-- 🍽 **InKanteen** *(2022)*: led the build of a QR menu, a point of sale, school catering and the operator dashboard for canteens.
+- 🍽 **InKanteen** *(2022–2024)*: built the QR menu frontend and the point-of-sale backend, and the school catering and operator dashboard apps full stack.
 - 🛡 **Futuready, Aegon Group** *(2019–2021)*: insurance platforms for Indonesia and Thailand, including passport OCR in 2020.
 - ⚖️ **Redek, Colombia** *(2021)*: online dispute resolution between people and banks.
 
