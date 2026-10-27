@@ -3,8 +3,8 @@
 
 I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://idinstudio.com)**. I ship SaaS end to end, with LLM features where they help. I’ve written production code since **May 2018**, starting the day after I finished vocational school. 🎉
 
-- 🤖 **Building on top of AI models:** an MCP-based assistant, tool-using agents, and a YOLO model I fine-tuned on data I annotated myself, in production since 2026.
-- 🏭 **Since September 2024:** platform engineering for **Alpamayo GmbH** in Switzerland (industrial IoT).
+- 🤖 **Building on top of AI models:** PREKIT's MCP server and AI assistant, which I built from the start inside Alpamayo's engineering team, and a YOLO model I fine-tuned on data I annotated myself, in production since 2026.
+- 🏭 **Since September 2024:** full-stack engineer for **Alpamayo GmbH** in Switzerland (industrial IoT), through Idin Studio since July 2025.
 - 🏢 **Since 2025:** running **Idin Studio**, a founder-led software studio in Bogor.
 - 💌 **Building [Inviboo](https://inviboo.com)**, my own event platform for weddings, birthdays, aqiqah and more. It is live with real users.
 - 🔗 **Open to** product builds, Upwork contracts, and good conversations about shipping software.
@@ -30,10 +30,10 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
 </picture>
 
 ## 🧭 Selected Work:
-- 🏭 **Alpamayo, Switzerland** *(since Sep 2024)*: PREKIT, an edge data platform with an MCP-based assistant, and Alpamayo Intelligence, an operations platform with tool-using agents.
-- 🚌 **Efisiensi, Indonesia** *(since 2025)*: a passenger ticketing app for an intercity bus operator, then AI fleet monitoring with a YOLO model that counts passengers from bus CCTV.
+- 🏭 **Alpamayo, Switzerland** *(since Sep 2024)*: on PREKIT, an edge data platform, I built the MCP server and AI assistant from the start inside Alpamayo's engineering team; on Alpamayo Intelligence, the deployment-drift engine, the Kanban task board and the resource library.
+- 🚌 **Efisiensi, Indonesia** *(since 2025, through Idin Studio)*: the passenger ticketing app frontend for an intercity bus operator, then AI fleet monitoring with a YOLO model, trained on data I labeled, that counts passengers from bus CCTV.
 - 💌 **Inviboo** *(own product, since Mar 2026)*: event planning, invitations, vendors and day-of operations in one platform.
-- 🍽 **InKanteen** *(2022)*: led the build of a QR menu, a point of sale, school catering and the operator dashboard for canteens.
+- 🍽 **InKanteen** *(2022–2024)*: built the QR menu frontend and the point-of-sale backend, and the school catering and operator dashboard apps full stack.
 - 🛡 **Futuready, Aegon Group** *(2019–2021)*: insurance platforms for Indonesia and Thailand, including passport OCR in 2020.
 - ⚖️ **Redek, Colombia** *(2021)*: online dispute resolution between people and banks.
 
