@@ -15,7 +15,7 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
   <a href="mailto:ahmad@idinstudio.com" target="_blank"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
   <a href="https://ahmadmuhyidin.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/idindev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/idindev" target="_blank"><img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01e4b82d69dc728ba3" target="_blank"><img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://x.com/idindev" target="_blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" /></a>
 </div>
 
