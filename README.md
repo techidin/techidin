@@ -1,13 +1,13 @@
 # Hey there, I’m <a href="https://www.linkedin.com/in/idindev/">Ahmad</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 <img src="https://img.shields.io/badge/UTC%20+7-Bogor%2C%20Indonesia-black?style=for-the-badge&logo=clock&logoColor=white" />
 
-I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://idinstudio.com)**. I ship SaaS end to end, with LLM features where they help. I’ve written production code since **May 2018**, starting the day after I finished vocational school. 🎉
+I’m an **AI integration engineer** and the founder of **[Idin Studio](https://idinstudio.com)**. I connect AI agents to your product, safely, and build the full stack around them. I’ve written production code since **May 2018**, starting the day after I finished vocational school. 🎉
 
-- 🤖 **Building on top of AI models:** PREKIT's MCP server and AI assistant, which I built from the start inside Alpamayo's engineering team, and a YOLO model I fine-tuned on data I annotated myself, in production since 2026.
+- 🤖 **Building on top of AI models:** PREKIT's MCP server and AI assistant, which I built from the start inside Alpamayo's engineering team, and a vision AI model (YOLO) I fine-tuned on data I annotated myself, in production since 2026.
 - 🏭 **Since September 2024:** full-stack engineer for **Alpamayo GmbH** in Switzerland (industrial IoT), through Idin Studio since July 2025.
 - 🏢 **Since 2025:** running **Idin Studio**, a founder-led software studio in Bogor.
 - 💌 **Building [Inviboo](https://inviboo.com)**, my own event platform for weddings, birthdays, aqiqah and more. It is live with real users.
-- 🔗 **Open to** product builds, Upwork contracts, and good conversations about shipping software.
+- 🔗 **Open to** contract, fractional or full-time work, up to 40 hours a week, remote, directly or through Upwork. I reply within one working day, often within 4 hours.
 
 <p align="center">📫 You can reach me on:</p>
 
@@ -31,7 +31,7 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
 
 ## 🧭 Selected Work:
 - 🏭 **Alpamayo, Switzerland** *(since Sep 2024)*: on PREKIT, an edge data platform, I built the MCP server and AI assistant from the start inside Alpamayo's engineering team; on Alpamayo Intelligence, the deployment-drift engine, the Kanban task board and the resource library.
-- 🚌 **Efisiensi, Indonesia** *(since 2025, through Idin Studio)*: the passenger ticketing app frontend for an intercity bus operator, then AI fleet monitoring with a YOLO model, trained on data I labeled, that counts passengers from bus CCTV.
+- 🚌 **Efisiensi, Indonesia** *(since 2025, through Idin Studio)*: the passenger ticketing app frontend for an intercity bus operator, then AI fleet monitoring: vision AI that counts passengers on bus CCTV snapshots, a YOLO model trained on data I labeled.
 - 💌 **Inviboo** *(own product, since Mar 2026)*: event planning, invitations, vendors and day-of operations in one platform.
 - 🍽 **InKanteen** *(2022–2024)*: built the QR menu frontend and the point-of-sale backend, and the school catering and operator dashboard apps full stack.
 - 🛡 **Futuready, Aegon Group** *(2019–2021)*: insurance platforms for Indonesia and Thailand, including passport OCR in 2020.
@@ -40,8 +40,8 @@ I’m a **full-stack & AI engineer** and the founder of **[Idin Studio](https://
 More case studies: **[ahmadmuhyidin.my.id/work](https://ahmadmuhyidin.my.id/work)**
 
 ## 🎯 Expertise Highlights:
+- **AI Integration**: MCP servers, tool-using agents, LLM features, and vision AI (YOLO, OCR).
 - **Full-Stack Development**: TypeScript, Go, Python and PHP, from the domain model to the deployed system.
-- **AI Engineering**: LLM features, MCP servers, tool-using agents, and computer vision (YOLO, OCR).
 - **Industrial IoT & Fleet**: edge data platforms, realtime dashboards, and camera pipelines.
 - **Shipping**: Docker, CI/CD and self-hosted infrastructure. I write and review the code myself.
 
