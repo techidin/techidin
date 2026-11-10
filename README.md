@@ -6,7 +6,7 @@ I’m an **AI Integration Engineer** and the founder of **[Idin Studio](https://
 - 🤖 **Building on top of AI models:** PREKIT's MCP server and AI assistant, which I built from the start inside Alpamayo's engineering team, and a vision AI model (YOLO) I fine-tuned on data I annotated myself, in production since 2026.
 - 🏭 **Since September 2024:** full-stack engineer for **Alpamayo GmbH** in Switzerland (industrial IoT), freelance via Upwork and billed through Idin Studio since July 2025.
 - 🏢 **Since 2025:** running **Idin Studio**, a two-person software studio in Bogor.
-- 💌 **Building [Inviboo](https://inviboo.com)**, my own event platform for weddings, birthdays, aqiqah and more. Live with real users since April 2026.
+- 💌 **Building [Inviboo](https://inviboo.com)**, my own event platform for weddings, birthdays, aqiqah and more. Live with real users.
 - 🔗 **Open to** contract, fractional or full-time work, up to 40 hours a week, remote, directly or through Upwork. I reply within one working day, often within 4 hours.
 
 <p align="center">📫 You can reach me on:</p>
