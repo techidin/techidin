@@ -1,6 +1,6 @@
 # Hi, I'm [Ahmad](https://www.linkedin.com/in/idindev/)
 
-I'm an AI integration engineer and the founder of [Idin Studio](https://idinstudio.com), a two-person AI integration studio in Bogor, Indonesia (UTC+7). I connect AI agents to products safely, through MCP servers and AI assistants with per-user access, confirmed writes and an audit log, and I build the SaaS around them. I've shipped production software since May 2018, starting the day after I finished vocational school.
+I'm an AI engineer and the founder of [Idin Studio](https://idinstudio.com), a two-person AI integration studio in Bogor, Indonesia (UTC+7). I connect AI agents to products safely, through MCP servers and AI assistants with per-user access, confirmed writes and an audit log, and I build the SaaS around them. I've shipped production software since May 2018, starting the day after I finished vocational school.
 
 Since 2025 I design the system, direct AI coding agents under rules and tests I write, and review every change.
 
